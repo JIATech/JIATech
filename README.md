@@ -1,20 +1,20 @@
 # Hi there! I'm Juan Ignacio Arnaboldi 👨‍💻
 
-**Analista en Sistemas (2025) | Full-Stack Developer @ DTI | Especialista en Digitalización de Procesos Críticos**
+**Systems Analyst (2025) | Full-Stack Developer @ DTI | Specialist in Digitalization of Critical Processes**
 
 Transforming operational expertise into technological solutions. With 14 years of experience in the public sector and a strategic transition to full-stack development since October 2023, I specialize in modernizing legacy systems and digitalizing critical business processes.
 
 ## 🚀 Featured Projects
 
-### VRSys - Biometric Authentication System
-🔗 **Live Demo:** [vrsys.jiatech.com.ar](https://vrsys.jiatech.com.ar)
-- Advanced biometric fingerprint authentication system
-- Cutting-edge security implementation for critical processes
-
 ### Portfolio & Professional Showcase
 🌐 **Visit:** [jiatech.com.ar](https://jiatech.com.ar)
 - Complete showcase of projects and technical capabilities
 - Legacy system modernization case studies
+
+### VRSys - Biometric Authentication System
+🔗 **Live Demo:** [vrsys.jiatech.com.ar](https://vrsys.jiatech.com.ar)
+- Advanced biometric fingerprint authentication system
+- Cutting-edge security implementation for critical processes
 
 ## 🛠️ Technology Stack
 
