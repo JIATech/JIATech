@@ -1,8 +1,8 @@
 # Hi there! I'm Juan Ignacio Arnaboldi 👨‍💻
 
-**Systems Analyst (2025) | Full-Stack Developer @ DTI | Specialist in Digitalization of Critical Processes**
+**Systems Analyst (2026) | Full-Stack Developer**
 
-Transforming operational expertise into technological solutions. With 14 years of experience in the public sector and a strategic transition to full-stack development since October 2023, I specialize in modernizing legacy systems and digitalizing critical business processes.
+Full-Stack Developer | Analyst | 2 years developing software for the Buenos Aires Penitentiary Service | Specialized in data security and high availability systems for public agencies
 
 ## 🚀 Featured Projects
 
