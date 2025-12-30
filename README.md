@@ -19,8 +19,8 @@
 ## 🛠️ Technology Stack
 
 **Frontend:** Next.js • React • Astro • Tailwind CSS  
-**Backend:** Node.js + Express.js
-**How much TypeScript do I use?:** Yes.
+**Backend:** Node.js + Express.js  
+**How much TypeScript do I use?:** Yes.  
 **DevOps:** Jenkins, GitHub Actions  
 
 ## 📊 GitHub Stats
