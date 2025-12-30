@@ -23,12 +23,6 @@
 **How much TypeScript do I use?:** Yes.  
 **DevOps:** Jenkins, GitHub Actions  
 
-## 📊 GitHub Stats
-
-![JIATech's GitHub stats](https://github-readme-stats.vercel.app/api?username=JIATech&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIATech&layout=compact&theme=dark)
-
 ## 💡 My Journey
 
 WIP
