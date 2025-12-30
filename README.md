@@ -1,8 +1,8 @@
-# Hi there! I'm Juan Ignacio Arnaboldi 👨‍💻
+# Hi! I'm John from JIATech
 
 **Systems Analyst (2026) | Full-Stack Developer**
 
-Full-Stack Developer | Analyst | 2 years developing software for the Buenos Aires Penitentiary Service | Specialized in data security and high availability systems for public agencies
+2 years developing software for the Buenos Aires Penitentiary Service | Specialized in data security and high availability systems for public agencies
 
 ## 🚀 Featured Projects
 
@@ -18,10 +18,10 @@ Full-Stack Developer | Analyst | 2 years developing software for the Buenos Aire
 
 ## 🛠️ Technology Stack
 
-**Frontend:** Next.js • React • TypeScript • Tailwind CSS  
-**Backend:** Node.js  
-**DevOps:** GitHub Actions  
-**Specialization:** Legacy System Modernization • Process Digitalization
+**Frontend:** Next.js • React • Astro • Tailwind CSS  
+**Backend:** Node.js + Express.js
+**How much TypeScript do I use?:** Yes.
+**DevOps:** Jenkins, GitHub Actions  
 
 ## 📊 GitHub Stats
 
@@ -31,9 +31,6 @@ Full-Stack Developer | Analyst | 2 years developing software for the Buenos Aire
 
 ## 💡 My Journey
 
-From **operational expertise** in the public sector to **technical innovation** - I bring a unique perspective that bridges business needs with technological solutions. My experience in critical processes ensures that every line of code serves a real-world purpose.
+WIP
 
 ---
-
-### 🎯 Ready to collaborate on your next project?
-**Explore my complete portfolio:** [jiatech.com.ar](https://jiatech.com.ar)
